@@ -54,7 +54,7 @@ Contributions to the Movie Guide App are welcome! If you find any issues or want
 
 ## License
 
-The Movie Guide App is open-source and released under the [MIT License](LICENSE).
+The Movie Guide App is open-source and released under the [MIT License](https://opensource.org/license/mit/).
 
 ## Acknowledgements
 
