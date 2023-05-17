@@ -61,3 +61,5 @@ The Movie Guide App is open-source and released under the [MIT License](LICENSE)
 - The Movie Guide App utilizes the [OMDB API](http://www.omdbapi.com/) for movie data.
 - The design and layout of the app are inspired by modern web design trends.
 # Movie-Info-App
+# Movie-Info-App
+# Movie-Info-App
